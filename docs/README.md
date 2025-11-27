@@ -48,6 +48,15 @@
 
 ```print(perimeter(1.8)) #11.309733552923255```
 
+## Тестирование библиотеки
+
+В директории содержаться файлы для тестирования функций:
+
+### test_circle.py
+### test_square.py
+
+Для запуска всех тестов используйте ```python -m unittest discover -v```
+
 ## История изменения проекта
 
 - 4 Mar 2021 14:54
@@ -55,6 +64,13 @@
 ***L-03: Circle and square added***
 
 commit: 8ba9aeb3cea847b63a91ac378a2a6db758682460
+
+
+- 27 Nov 2025 23:30
+
+***testing added***
+
+commit: 054bbca84e50ac7fba4abb87e67b1da40e0b24a2
 
 ## Контакты
 
